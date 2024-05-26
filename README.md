@@ -2,6 +2,17 @@
 
 Your Journey to a New Home Begins Here Explore a wide range of properties for buying and renting. From cozy apartments to spacious family homes, we have the perfect match for your lifestyle and budget.
 
+
+## Both Fronted and Backend are Hosted at Netlify and Render respectively
+
+• Application Deployed Link: https://rentify-estate.netlify.app
+
+• Backend Deployed Link: https://rentify-real-estate-application.onrender.com/api
+
+• Sample Endpoints: 
+  - For fetching all properties in Kolkata Location:
+  - https://rentify-real-estate-application.onrender.com/api/posts?city=Kolkata
+
 ## Table of Contents
 
 - [Part I: Basic Application (Mandatory)](#part-i-basic-application-mandatory)
