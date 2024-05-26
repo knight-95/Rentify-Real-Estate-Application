@@ -2,6 +2,8 @@
 
 Your Journey to a New Home Begins Here Explore a wide range of properties for buying and renting. From cozy apartments to spacious family homes, we have the perfect match for your lifestyle and budget.
 
+<img width="1280" alt="Screenshot 2024-05-27 at 02 12 43" src="https://github.com/knight-95/Rentify-Real-Estate-Application/assets/79582395/9482a390-cc42-4973-9674-07667470a19b">
+
 
 ## Both Fronted and Backend are Hosted at Netlify and Render respectively
 
@@ -11,7 +13,13 @@ Your Journey to a New Home Begins Here Explore a wide range of properties for bu
 
 • Sample Endpoints: 
   - For fetching all properties in Kolkata Location:
+  
+<img width="1255" alt="Screenshot 2024-05-27 at 02 15 48" src="https://github.com/knight-95/Rentify-Real-Estate-Application/assets/79582395/f4f238d0-7ca1-48c7-bdbb-3beae3b7a695">
+
   - https://rentify-real-estate-application.onrender.com/api/posts?city=Kolkata
+
+<img width="1261" alt="Screenshot 2024-05-27 at 02 16 35" src="https://github.com/knight-95/Rentify-Real-Estate-Application/assets/79582395/c3cacd7d-26b7-4743-ac5e-7a922724746a">
+
 
 ## Table of Contents
 
