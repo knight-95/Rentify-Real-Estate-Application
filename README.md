@@ -1,5 +1,7 @@
 # Real Estate Web Application Challenge
 
+### Application Deployed Link: https://rentify-estate.netlify.app
+
 Your Journey to a New Home Begins Here Explore a wide range of properties for buying and renting. From cozy apartments to spacious family homes, we have the perfect match for your lifestyle and budget.
 
 <img width="1280" alt="Screenshot 2024-05-27 at 02 12 43" src="https://github.com/knight-95/Rentify-Real-Estate-Application/assets/79582395/9482a390-cc42-4973-9674-07667470a19b">
