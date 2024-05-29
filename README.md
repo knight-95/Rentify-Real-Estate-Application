@@ -11,7 +11,7 @@ Your Journey to a New Home Begins Here Explore a wide range of properties for bu
 
 • Application Deployed Link: https://rentify-estate.netlify.app
 
-• Backend Deployed Link: https://rentify-real-estate-application.onrender.com/api
+• Backend Deployed Link: https://rentify-real-estate-application.onrender.com/api/posts?city=Kolkata
 
 • Sample Endpoints: 
   - For fetching all properties in Kolkata Location:
